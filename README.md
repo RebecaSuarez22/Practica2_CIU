@@ -23,7 +23,7 @@ Al iniciar el programa, se muestra un mensaje el cual explica el uso del program
 </p>
 <br>
 
-Tras pulsar el boton de aceptar, podremos empezar a dibujar el perfil del objeto en el lado derecho de la pantalla, al acabar de hacer el contorno, se debe pulsar en Ge 3D para  mostrar el objeto en 3D.
+Tras pulsar el boton de aceptar, el usuario podra a empezar a dibujar el perfil del objeto en el lado derecho de la pantalla, al acabar de hacer el contorno, debe pulsar en Get 3D para mostrar el objeto en 3D.
 
 <br>
 <p align="center">
@@ -32,7 +32,7 @@ Tras pulsar el boton de aceptar, podremos empezar a dibujar el perfil del objeto
 </p>
 <br>
 
-Para volver a hacer otra figura, debemos pulsar en reset, lo cual vaciará el lienzo y podremos realizar otro contorno.
+Para volver a hacer otra figura, el usuario debe pulsar en reset, lo cual vaciará el lienzo y podra realizar otro contorno.
 En todo momento, el usuario puede pulsar la tecla "h" y se le mostrará un mensaje con la información de uso del programa.
 
 <br>
